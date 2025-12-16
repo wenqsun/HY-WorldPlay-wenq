@@ -116,8 +116,13 @@ Try our **online demo** without installation: https://3d.hunyuan.tencent.com/sce
 ## 🧱 Download Pretrained Models
 We provide the implementaion using the HunyuanVideo-1.5, which is one of most powerful open-source video diffusion models. The model checkpoints can be found [here](https://huggingface.co/tencent/HY-WorldPlay).
 
+You can download all three models using the `huggingface-cli` command:
+```bash
+hf download tencent/HY-WorldPlay
+```
+
 |ModelName| Download                     |
-|-|-------------------------------------------| 
+|-|-------------------------------------------|
 HY-World1.5-Bidirectional-480P-I2V |   [Link](https://huggingface.co/tencent/HY-WorldPlay/tree/main/bidirectional_model)  |
 HY-World1.5-Autoregressive-480P-I2V | [Link](https://huggingface.co/tencent/HY-WorldPlay/tree/main/ar_model)   |
 HY-World1.5-Autoregressive-480P-I2V-distill |  [Link](https://huggingface.co/tencent/HY-WorldPlay/tree/main/ar_distilled_action_model)   |   

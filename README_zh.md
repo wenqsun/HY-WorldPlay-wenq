@@ -112,6 +112,11 @@ https://github.com/user-attachments/assets/3a3ab5fd-409a-4fa8-a39a-4aa1a09691e2
 ## 🧱 下载预训练模型
 我们提供了使用混元视频-1.5 的实现，这是最强大的开源视频扩散模型之一。模型权重可在 [这里](https://huggingface.co/tencent/HY-WorldPlay) 下载。
 
+您可以使用`huggingface-cli`命令下载所有三个模型：
+```bash
+hf download tencent/HY-WorldPlay
+```
+
 |模型名称| 下载                     |
 |-|-------------------------------------------|
 HY-World1.5-Bidirectional-480P-I2V |  [下载地址](https://huggingface.co/tencent/HY-WorldPlay/tree/main/bidirectional_model)   |
