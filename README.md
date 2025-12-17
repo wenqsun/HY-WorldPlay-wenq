@@ -54,6 +54,7 @@
 - [🔑 Inference](#-inference)
 - [📊 Evaluation](#-evaluation)
 - [🎬 More Examples](#-more-examples)
+- [📝 TODO](#-todo)
 - [📚 Citation](#-citation)
 - [🙏 Acknowledgements](#-acknowledgements)
 
@@ -245,6 +246,10 @@ https://github.com/user-attachments/assets/6aac8ad7-3c64-4342-887f-53b7100452ed
 https://github.com/user-attachments/assets/531bf0ad-1fca-4d76-bb65-84701368926d
 
 https://github.com/user-attachments/assets/f165f409-5a74-4e19-a32c-fc98d92259e1
+
+## 📝 TODO
+
+- [ ] Open-source training code
 
 ## 📚 Citation
 
